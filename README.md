@@ -5,8 +5,10 @@
 
 
 #### 介绍
-
-​	VUE FLOW DESIGN流程设计器，基于Vue + Ant Design Vue + JSPlumb，该组件目的是为了使用在Vue项目中，它前身是[原生版流程设计器](https://gitee.com/openEA/FlowDesigner/tree/master/)。Vue版本以全新的技术栈重构了代码，并在原版基础上实现了更好的操作方式，新版会作为优先版本持续迭代。
+- VUE FLOW DESIGN流程设计器，基于Vue + Ant Design Vue + JSPlumb，该组件目的是为了使用在Vue项目中，它前身是[原生版流程设计器](https://gitee.com/openEA/FlowDesigner/tree/master/)。
+- Vue版本以全新的技术栈重构了代码，并在原版基础上实现了更好的操作方式，新版会作为优先版本持续迭代。
+- github: https://github.com/ZFSNYJ/VFD
+- [演示地址](http://106.53.75.71:8080/)
 
 
 
