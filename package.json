@@ -21,7 +21,7 @@
     "html2canvas": "^1.0.0-rc.3",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "jsplumb": "^2.11.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
